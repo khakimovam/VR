@@ -46,3 +46,10 @@
 .menu__link {
     margin-right: 5%;
 }
+
+.button-subscribe {
+    background-color: #5222D0;
+    color: white;
+    border-radius: 20px;
+    padding: 10px;
+}
